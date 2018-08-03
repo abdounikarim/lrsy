@@ -1,0 +1,68 @@
+/*
+Theme Name: LRSY
+Template: boston
+*/
+
+@import url("../boston/style.css");
+.menu-item {
+    font-weight: bold;
+    text-align: center;
+}
+
+.site-topbar,
+.site-topbar .container {
+    background-color: #f1f1f1;
+}
+
+h1, h2, h3{
+    text-align: center;
+    font-family: Georgia, serif;
+}
+.widget-title{
+	font-size: 1.2em;
+}
+select {
+    width: 100%;
+}
+tr:hover{
+	background-color: #f1f1f1;
+}
+.css-events-list table.events-table td{
+	padding: 10px;
+}
+.entry-content button a, .entry-content button a:hover{
+	color: white;
+	text-decoration: none;
+}
+.site-footer{
+	background-color: #f1f1f1;
+}
+
+@media (min-width: 768px){
+    .archive__layout1{
+        max-width: 720px;
+        margin: auto;
+    }
+    #primary, .content-area{
+        width: 100%;
+        max-width: 1120px;
+        margin: auto;    
+    }
+    #secondary{
+        width: 0px;
+    }
+}
+@media screen and (max-device-width: 980px){
+    th {
+    display: none;
+    }
+    tr {
+        display: flex;
+        flex-direction: column;
+        border-bottom: solid 5px black;
+    }
+    td {
+        display: flex;
+        flex-direction: column;
+    }
+}

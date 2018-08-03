@@ -1,0 +1,753 @@
+# Translation of Themes - Boston in French (France)
+# This file is distributed under the same license as the Themes - Boston package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-17 08:43:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Boston\n"
+
+#. Description of the plugin/theme
+msgid "Boston is a minimal Wordpress Theme designed for blogger, it provides many features that blogger will love. Whether you are looking to share your own thoughts, write about your latest findings, Boston is designed to fulfill these and a lot more. Get free support at https://www.famethemes.com/contact/ and check the demo at http://www.famethemes.com/preview/?theme=Boston"
+msgstr "Boston est un thème WordPress minimal pour les blogs, il fournit de nombreuses fonctions que vous aimerez. Que vous vouliez partager vos pensées ou vos dernières découvertes, Boston vous le permettra et bien plus encore. Obtenez un support gratuit sur https://www.famethemes.com/contact/ et découvrez la démo sur http://www.famethemes.com/preview/?theme=Boston"
+
+#. Theme Name of the plugin/theme
+msgid "Boston"
+msgstr "Boston"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation de l'extension %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3518
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont bien été effectuées."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installé."
+
+#: inc/tgm.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Démarrage de l'installation. Selon l'hébergement, cela peut prendre un certain temps. Patientez...."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l’extension %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été réalisées."
+
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Hide Details"
+msgstr "Masquer les détails"
+
+#: inc/tgm.php:3509 inc/tgm.php:3517
+msgid "Show Details"
+msgstr "Voir les détails"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s a bien été installée et activée."
+
+#: inc/tgm.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Démarrage de l'installation et de l'activation de l'extension. Son déroulement, selon l'hébergeur peut prendre un certain temps. Patientez..."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:3503
+msgid "The installation of %1$s failed."
+msgstr "L’installation de %1$s a échoué."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur s'est produite lors de l'installation de %1$s : <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l’extension %1$s (%2$d/%3$d)"
+
+#: inc/tgm.php:3158
+msgid "Plugin activation failed."
+msgstr "L'activation de l'extension a échoué."
+
+#: inc/tgm.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension disponible pour une mise à jour actuellement."
+
+#: inc/tgm.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucune extension n’a été sélectionnée pour être activé. Aucune action prise."
+
+#: inc/tgm.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune extension disponible pour être mis à jour en ce moment."
+
+#: inc/tgm.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension disponible à l'installation actuellement."
+
+#: inc/tgm.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Aucune extension sélectionnée pour la mise à jour. Pas d'action en cours."
+
+#: inc/tgm.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Aucune extension disponible à l'installation actuellement. Pas d'action en cours."
+
+#: inc/tgm.php:2723
+msgid "Update"
+msgstr "Mise à jour"
+
+#: inc/tgm.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à jour de l’auteur de l’extension :"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2614
+msgid "Activate %2$s"
+msgstr "Activation de %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2608
+msgid "Update %2$s"
+msgstr "Mise à jour %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm.php:2603
+msgid "Install %2$s"
+msgstr "Installation %2$s"
+
+#: inc/tgm.php:2554
+msgid "Status"
+msgstr "Statut"
+
+#: inc/tgm.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: inc/tgm.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/tgm.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: inc/tgm.php:2547
+msgid "Plugin"
+msgstr "Extension"
+
+#: inc/tgm.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Aucune extension à installer, mettre à jour ou activer."
+
+#: inc/tgm.php:2510
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: inc/tgm.php:2498
+msgid "Minimum required version:"
+msgstr "Version nécessaire minimum :"
+
+#: inc/tgm.php:2490
+msgid "Installed version:"
+msgstr "Version installée :"
+
+#: inc/tgm.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnu"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour activer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour activer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Mise à jour disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour installer <span class=\"count\">(%s)</span>"
+msgstr[1] "Pour installer <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Toute <span class=\"count\">(%s)</span>"
+msgstr[1] "Toutes <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm.php:2333
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#: inc/tgm.php:2330
+msgid "Requires Update"
+msgstr "Mise à jour nécessaire"
+
+#: inc/tgm.php:2327
+msgid "Required Update not Available"
+msgstr "Mise à jour nécessaire non disponible"
+
+#: inc/tgm.php:2321
+msgid "Active"
+msgstr "Activer"
+
+#: inc/tgm.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installé mais non activé"
+
+#: inc/tgm.php:2315
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: inc/tgm.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-packagé"
+
+#: inc/tgm.php:2295
+msgid "External Source"
+msgstr "Source externe"
+
+#: inc/tgm.php:2292
+msgid "WordPress Repository"
+msgstr "Dépôt deWordPress"
+
+#: inc/tgm.php:2276
+msgid "Recommended"
+msgstr "Recommandée"
+
+#: inc/tgm.php:2273
+msgid "Required"
+msgstr "Nécessaire"
+
+#. translators: %s: version number
+#: inc/tgm.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm.php:1121 inc/tgm.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#: inc/tgm.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Le package distant de l’extension consiste en plus d’un fichier, mais les fichiers ne sont pas compilés dans un répertoire."
+
+#: inc/tgm.php:934 inc/tgm.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Veuillez contacter le fournisseur de l'extension et de lui demander d'accorder son extension avec les pratiques de WordPress."
+
+#: inc/tgm.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Le package d'extensions distantes ne contient pas de répertoire avec l’identifiant désiré et le renommage ne fonctionnera pas."
+
+#: inc/tgm.php:523
+msgid "Update Required"
+msgstr "Mise à jour nécessaire"
+
+#: inc/tgm.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Cette extension a besoin d’être mise à jour pour être compatible avec votre thème."
+
+#: inc/tgm.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l’administrateur du site pour obtenir de l’aide."
+
+#: inc/tgm.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Il y a une ou plusieurs  extensions nécessaires ou recommandées à installer, mettre à jour ou activer."
+
+#: inc/tgm.php:395
+msgid "Dismiss this notice"
+msgstr "Retirer cet avertissement"
+
+#. translators: 1: dashboard link.
+#: inc/tgm.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont bien été installées. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Extension non activée. Une version plus récente de %s est nécessaire pour ce thème. Veuillez la mettre à jour."
+
+#. translators: 1: plugin name.
+#: inc/tgm.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aucune action nécessaire. L'extension %1$s est déjà active."
+
+#: inc/tgm.php:388 inc/tgm.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "L'extension suivante a bien été activée :"
+
+#: inc/tgm.php:387 inc/tgm.php:3159
+msgid "Plugin activated successfully."
+msgstr "L’extension a bien été activée."
+
+#: inc/tgm.php:386 inc/tgm.php:827 inc/tgm.php:2533 inc/tgm.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: inc/tgm.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à l'installation des extensions nécessaires"
+
+#: inc/tgm.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Début d'activation d'extension"
+msgstr[1] "Début d'activation des extensions"
+
+#: inc/tgm.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Début de mise à jour d'extension"
+msgstr[1] "Début de mise à jour des extensions"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Début d'installation d'extension"
+msgstr[1] "Début d'installation des extensions"
+
+#: inc/tgm.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur a eu lieu avec l’API de l'extension."
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:332
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour de l'extension : %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installation de l’extension : %s"
+
+#: inc/tgm.php:328
+msgid "Install Plugins"
+msgstr "Installation des extensions"
+
+#: inc/tgm.php:327
+msgid "Install Required Plugins"
+msgstr "Installation des extensions nécessaires"
+
+#: inc/dashboard.php:153
+msgid "FameThemes Demo Importer"
+msgstr "Importateur de démo FameThemes"
+
+#: inc/dashboard.php:151
+msgid "Hey, you will need to install and activate the %1$s plugin first."
+msgstr "Bonjour, vous avez d’abord besoin d’installer et activer l’extension %1$s."
+
+#: inc/dashboard.php:135
+msgid "Active Now"
+msgstr "Activer"
+
+#: inc/dashboard.php:113
+msgid "Install Now"
+msgstr "Installer"
+
+#: inc/dashboard.php:57
+msgid "Free vs PRO"
+msgstr "Gratuit VS Pro"
+
+#: inc/dashboard.php:189
+msgid "Rate our theme on %1s. We'd really appreciate it!"
+msgstr "Notez notre thème sur %s. Nous apprécierions vraiment beaucoup !"
+
+#. Template Name of the plugin/theme
+msgid "Full-Width Page"
+msgstr "Page en pleine largeur"
+
+#: inc/dashboard.php:188
+msgid "Are you enjoying Boston theme?"
+msgstr "Vous aimez le thème Boston ?"
+
+#: inc/dashboard.php:182
+msgid "Translate Boston"
+msgstr "Traduire Boston"
+
+#: inc/dashboard.php:180
+msgid "Get involved at WordPress.org."
+msgstr "Impliquez vous sur WordPress.org"
+
+#: inc/dashboard.php:179
+msgid "Are you a polyglot? Want to translate Boston into your own language?"
+msgstr "Vous êtes polyglotte ? Vous voulez traduire Boston dans votre langue ?"
+
+#: inc/dashboard.php:173
+msgid "Boston on GitHub"
+msgstr "Boston sur GitHub"
+
+#: inc/dashboard.php:171
+msgid "GitHub is the place to go!"
+msgstr "GitHub est l’endroit où aller !"
+
+#: inc/dashboard.php:170
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Vous avez trouvé un bug ? Vous voulez contribuer avec un fix ou créer une nouvelle fonction ?"
+
+#: inc/dashboard.php:91
+msgid "Upgrade Now"
+msgstr "Mettez à niveau maintenant"
+
+#: inc/dashboard.php:90
+msgid "Boston Pro Demo"
+msgstr "Contenu de démo Boston pro"
+
+#: inc/dashboard.php:87
+msgid "Our #1 blogging WordPress theme with premium features designed for bloggers and content lovers."
+msgstr "Notre premier thème WordPress pour blog avec des fonctions premiums pour les amoureux de contenu."
+
+#: inc/dashboard.php:81
+msgid "Boston Documentation"
+msgstr "Documentation de Boston"
+
+#: inc/dashboard.php:58
+msgid "Contribute"
+msgstr "Contribuer"
+
+#: inc/dashboard.php:56
+msgid "One Click Demo Import"
+msgstr "Import de démo en un clic"
+
+#: inc/customizer.php:84
+msgid "Left sidebar"
+msgstr "Barre à gauche"
+
+#: inc/customizer.php:83
+msgid "Right sidebar"
+msgstr "Barre à droite"
+
+#: inc/customizer.php:79
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: inc/customizer.php:64
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/dashboard.php:50
+msgid "Whether you're looking to share your own thoughts, write about your latest findings, Boston WordPress theme is designed to fulfill these and a lot more."
+msgstr "Que vous cherchiez à partager vos propres pensées, à écrire au sujet de vos derniers résultats, le thème WordPress Boston est conçu pour satisfaire ces besoins et beaucoup d'autres."
+
+#: inc/customizer.php:275
+msgid "Upgrade to %1s to display featured content as a slider."
+msgstr "Passez à %1s pour afficher le contenu mis en avant en diaporama."
+
+#: inc/customizer.php:251
+msgid "Boston Pro Features"
+msgstr "Fonctionnalités de Boston Pro"
+
+#: inc/customizer.php:237 inc/dashboard.php:85
+msgid "Upgrade to Boston Pro"
+msgstr "Mise à jour vers Boston Pro"
+
+#: inc/customizer.php:229
+msgid "Homepage articles listing layout"
+msgstr "Mise en page de la liste d'articles de l’accueil"
+
+#: inc/customizer.php:224
+msgid "Layout 4"
+msgstr "Mise en page 4"
+
+#: inc/customizer.php:218
+msgid "Layout 3"
+msgstr "Mise en page 3"
+
+#: inc/customizer.php:212
+msgid "Layout 2"
+msgstr "Mise en page 2"
+
+#: inc/customizer.php:208
+msgid "Layout 1"
+msgstr "Mise en page 1"
+
+#: inc/customizer.php:189
+msgid "Articles Listing Layout"
+msgstr "Mise en page de la liste d'articles"
+
+#: inc/customizer.php:124
+msgid "Slider"
+msgstr "Diaporama"
+
+#: inc/customizer.php:123
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: inc/customizer.php:120
+msgid "Display"
+msgstr "Affichage"
+
+#: inc/customizer.php:104
+msgid "Easily feature all posts with the \"featured\" tag or a tag of your choice."
+msgstr "Mettez en avant simplement toutes les publications avec l’étiquette \"featured\" ou une étiquette de votre choix."
+
+#: inc/customizer-controls.php:26
+msgid "Pro"
+msgstr "Pro"
+
+#: inc/dashboard.php:97
+msgid "Theme Screenshot"
+msgstr "Capture d'écran du thème"
+
+#: inc/dashboard.php:80
+msgid "Create a support ticket"
+msgstr "Créer un ticket à destination du support"
+
+#: inc/dashboard.php:77
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Le support du thème Wordpress %s est réalisé au travers du système de tickets de support FameThemes."
+
+#: inc/dashboard.php:75
+msgid "Having Trouble, Need Support?"
+msgstr "Des soucis, besoin d'aide ?"
+
+#: inc/dashboard.php:71
+msgid "Start Customize"
+msgstr "Démarrer la personnalisation"
+
+#: inc/dashboard.php:68
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s supporte la personnalisation pour tous les réglages du thème. Cliquez sur \"Personnaliser\" pour commencer la personnalisation de votre site."
+
+#: inc/dashboard.php:66
+msgid "Theme Customizer"
+msgstr "Personnalisation du thème"
+
+#: inc/dashboard.php:48
+msgid "Welcome to %1s - Version %2s"
+msgstr "Bienvenue sur %1s - Version %2s"
+
+#: inc/dashboard.php:11
+msgid "%s theme"
+msgstr "Thème %s"
+
+#: inc/dashboard.php:11
+msgid "%s Theme Dashboard"
+msgstr "Tableau de bord du thème %s "
+
+#: inc/customizer.php:53
+msgid "Primary Color"
+msgstr "Couleur principale"
+
+#: inc/customizer.php:35
+msgid "Styling"
+msgstr "Style"
+
+#: inc/customizer.php:180
+msgid "Show posts which have featured image only."
+msgstr "Ne montrer que les articles qui ont une image mise en avant."
+
+#: inc/customizer.php:166
+msgid "Hide tag from displaying in post meta and tag clouds."
+msgstr "Masquer l’étiquette dans les metas de l’article et dans et les nuages d’étiquettes."
+
+#: inc/customizer.php:152
+msgid "Number post to show"
+msgstr "Nombre d’articles à afficher"
+
+#: inc/customizer.php:138
+msgid "Tag name"
+msgstr "Nom de l’étiquette"
+
+#: inc/customizer.php:25
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#. translators: If there are characters in your language that are not supported
+#. by Playfair Display, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:165
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:160
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: template-parts/content.php:40
+msgid "Continue Reading"
+msgstr "Continuer la lecture"
+
+#: template-parts/content-page.php:22
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que nous ne puissions pas trouver ce que vous cherchez. Peut-être qu’une recherche pourrait vous aider."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais il n'y a aucun résultat pour les termes recherchés. Merci d'essayer à nouveau avec des mots-clés différents."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre premier article ? <a href=\"%1$s\">Démarrez ici</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Aucun résultat trouvé"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Résultats pour la recherche : %s"
+
+#: inc/template-tags.php:147
+msgid "Boston Theme by %1$s"
+msgstr "Thème Boston par %1$s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:83 template-parts/content-page.php:34
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:76
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Laisser un commentaire <span class=\"screen-reader-text\">sur %s</span>"
+
+#: inc/template-tags.php:69
+msgid "Tagged %1$s"
+msgstr "Étiqueté avec %1$s"
+
+#: inc/template-tags.php:63
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:61 inc/template-tags.php:67
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:30
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:26
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/tgm.php:2717
+msgid "Install"
+msgstr "Installer"
+
+#: inc/tgm.php:2726
+msgid "Activate"
+msgstr "Activé"
+
+#: inc/customizer.php:103
+msgid "Featured Content"
+msgstr "Contenu mis en avant"
+
+#: header.php:38
+msgid "Search and hit enter..."
+msgstr "Recherchez et tapez Entrée..."
+
+#: header.php:31
+msgid "Menu"
+msgstr "Menu"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: functions.php:112
+msgid "Add widgets here."
+msgstr "Ajoutez des widgets ici."
+
+#: functions.php:110
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: functions.php:66
+msgid "Primary"
+msgstr "Principal"
+
+#: footer.php:25
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Tous droits réservés."
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:39
+msgid "Add yours"
+msgstr "Ajoutez les votres"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "Un commentaire"
+msgstr[1] "%1$s commentaires"
+
+#. translators: %1$s: smiley
+#: 404.php:51
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez une recherche dans les archives mensuelles. %1$s"
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Il semble que rien n'ait été trouvé à cet emplacement. Essayez peut-être l'un des liens ci-dessous ou une recherche ?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Cette page n'a pas pu être trouvée."
+
+#. Author URI of the plugin/theme
+msgid "https://www.famethemes.com"
+msgstr "https://www.famethemes.com"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/boston"
+msgstr "https://www.famethemes.com/themes/boston"
